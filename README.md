@@ -6,4 +6,4 @@ The self-driving vehicle industry has grown exponentially over the past decade, 
 the lives of many billions of commuters across the world everyday is undeniable. However, the current self-driving vehicles are faced with many environmental factors such as rain, dust and other obscurities that can impact their sensing capabilities and can increase the chances of an accident beyond acceptable safety limits. This project implements a trained Convolutional Neural Network that can predict the degradation in the quality of camera images during their operation, and can help avoid accidents by timely cleaning of camera sensor.
 
 # Accompanied paper
-Here is the link to the accompanied [paper]([https://www.dropbox.com/s/odys67trjz6gunf/Quality%20Degradation%20Detection%20in%20Cameras%20for%20Self%20Driving%20Vehicle%20Applications.pdf?dl=0])
+Here is the link to the accompanied [paper](https://www.dropbox.com/s/odys67trjz6gunf/Quality%20Degradation%20Detection%20in%20Cameras%20for%20Self%20Driving%20Vehicle%20Applications.pdf?dl=0)
