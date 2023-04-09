@@ -7,3 +7,9 @@ the lives of many billions of commuters across the world everyday is undeniable.
 
 # Accompanied paper
 Here is the link to the accompanied [paper](https://www.dropbox.com/s/odys67trjz6gunf/Quality%20Degradation%20Detection%20in%20Cameras%20for%20Self%20Driving%20Vehicle%20Applications.pdf?dl=0)
+
+# Link to saved Model with Trained Weights
+Link to zip file for saved model to  be found here [here](https://www.dropbox.com/s/0jmf5shzdbl0utd/CNNModel.zip?dl=0)
+
+# Future Directions
+Future plans are to finish the development of GAN model for performance comparison as well as more testing with larger data sets.
