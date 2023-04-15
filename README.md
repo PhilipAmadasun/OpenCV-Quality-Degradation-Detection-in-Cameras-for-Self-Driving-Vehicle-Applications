@@ -1,5 +1,5 @@
 # OpenCV-Quality-Degradation-Detection-in-Cameras-for-Self-Driving-Vehicle-Applications
-This work consists of a convolutional neural network created with Tensorflow, future work impending.
+This work consists of a convolutional neural network created with Tensorflow amd Keras libraries in Python, future work impending.
 
 # Purpose
 The self-driving vehicle industry has grown exponentially over the past decade, and the impact it will make on
